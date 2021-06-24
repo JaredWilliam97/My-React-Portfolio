@@ -1,8 +1,5 @@
-export function validateEmail(email) {
-    const re =
-    
+// export function validateEmail(email) {
+//     const re =
 
-
-    
-    return re.test(String(email).toLowerCase());
-  }
+//     return re.test(String(email).toLowerCase());
+//   }
