@@ -14,7 +14,9 @@ In this application I created a professional React Portfolio.  This application 
 ![image](https://user-images.githubusercontent.com/80869140/123445791-dd0b0200-d59d-11eb-84c7-ec4d5a03997d.png)
 
 
-### `npm start`
+### URL
+
+https://jaredwilliam97.github.io/My-React-Portfolio/
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
