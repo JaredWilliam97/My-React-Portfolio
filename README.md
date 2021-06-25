@@ -14,7 +14,7 @@ In this application I created a professional React Portfolio.  This application 
 ![image](https://user-images.githubusercontent.com/80869140/123445791-dd0b0200-d59d-11eb-84c7-ec4d5a03997d.png)
 
 
-### URL
+## URL
 
 https://jaredwilliam97.github.io/My-React-Portfolio/
 
