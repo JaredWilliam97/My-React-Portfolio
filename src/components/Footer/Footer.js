@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./Footer.css";
 function Footer() {
   return (
     <footer>
@@ -8,45 +9,45 @@ function Footer() {
           <p>My Personal Websites</p>
           <ul className="socials">
             <li>
-              <Link
+              <a
                 href="https://www.linkedin.com/in/jared-sutch-5400b446/"
                 target="_blank"
                 rel="noopener"
               >
                 <i className="fa fa-linkedin-square"></i>
-              </Link>
+              </a>
             </li>
             <li>
-              <Link
+              <a
                 href="https://twitter.com/whitespice97"
                 target="_blank"
                 rel="noopener"
               >
                 <i className="fa fa-twitter"></i>
-              </Link>
+              </a>
             </li>
             <li>
-              <Link
+              <a
                 href="https://www.instagram.com/jwsutch/"
                 target="_blank"
                 rel="noopener"
               >
                 <i className="fa fa-instagram"></i>
-              </Link>
+              </a>
             </li>
             <li>
-              <Link
+              <a
                 href="https://github.com/JaredWilliam97"
                 target="_blank"
                 rel="noopener"
               >
                 <i className="fa fa-github"></i>
-              </Link>
+              </a>
             </li>
             <li>
-              <Link href="mailto: sutch002@yahoo.com">
+              <a href="mailto: sutch002@yahoo.com">
                 <i className="fa fa-yahoo"></i>
-              </Link>
+              </a>
             </li>
           </ul>
         </div>

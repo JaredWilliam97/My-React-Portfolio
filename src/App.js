@@ -8,6 +8,7 @@ import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import NavBar from "./components/NavBar/NavBar";
 import Footer from "./components/Footer/Footer";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
   return (
