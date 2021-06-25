@@ -5,7 +5,7 @@ export default function Contact() {
     <div>
       <h1>Contact Page</h1>
 
-      <p>Hello {userName}</p>
+      {/*<p>Hello {userName}</p>
       <form className="form">
         <input
           value={email}
@@ -36,7 +36,7 @@ export default function Contact() {
         <div>
           <p className="error-text">{errorMessage}</p>
         </div>
-      )}
+      )}*/}
     </div>
   );
 }
