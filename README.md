@@ -24,8 +24,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## GitHub URL
 
-# Feel free to contact me if you have any questions:
+* Feel free to contact me if you have any questions:
 
 https://github.com/JaredWilliam97
 
-## Credits: Chip Long, Alex Jurgs, Josh Lee, Lauren Gabaldon, Tarik Maggio
+* Credits: Chip Long, Alex Jurgs, Josh Lee, Lauren Gabaldon, Tarik Maggio
