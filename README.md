@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://user-images.githubusercontent.com/80869140/123444972-1131f300-d59d-11eb-98a3-7ccca135cfac.png)
 
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+In this application I created a professional React Portfolio.  This application contains links to my projects/portfolio.  It has links to an About Me page, a link to my Resume, and links to a Contact page if you want to contact me.  It also contains links to my LinkedIn, and other social media portols to be connecected through. 
 
 ### `npm start`
 
