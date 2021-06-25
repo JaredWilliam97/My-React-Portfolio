@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import Header from "../Header/Header";
-import ContentContainer from "../ContentContainer/ContentContainer";
+import Header from "./NavBar/NavBar";
+import ContentContainer from "./ContentContainer";
 
-import "./ContentContainer.css";
+// import "./ContentContainer.css";
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState("Portfolio");
