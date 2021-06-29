@@ -84,7 +84,11 @@ export default function Contact() {
           placeholder="message"
           rows="4"
         ></textarea>
-        <button type="button" onClick={handleFormSubmit}>
+        <button
+          type="button"
+          className="btn btn-alert"
+          onClick={handleFormSubmit}
+        >
           Submit
         </button>
       </form>
