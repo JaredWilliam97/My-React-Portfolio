@@ -28,4 +28,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 https://github.com/JaredWilliam97
 
+sutch002@yahoo.com
+
 * Credits: Chip Long, Alex Jurgs, Josh Lee, Lauren Gabaldon, Tarik Maggio
